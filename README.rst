@@ -7,7 +7,7 @@ Submodules
 test\.foo module
 ----------------
 
-.. automodule:: test.foo
+automodule:: test.foo
     :members:
     :undoc-members:
     :show-inheritance:
