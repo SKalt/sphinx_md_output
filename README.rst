@@ -1,7 +1,22 @@
-Funniest
---------
+test package
+============
 
-To use (with caution), simply do::
+Submodules
+----------
 
-    >>> import funniest
-    >>> print funniest.joke()
+test\.foo module
+----------------
+
+.. automodule:: test.foo
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: test
+    :members:
+    :undoc-members:
+    :show-inheritance:
